@@ -23,7 +23,7 @@
 *사소한 고민부터 중요한 결정까지 피커들과 함께 해보세요!*
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b4fb473a-d92f-4dec-9f6b-2c7d8db35fbb" alt="투표 이미지" width="50%">
+  <img src="https://github.com/user-attachments/assets/b4fb473a-d92f-4dec-9f6b-2c7d8db35fbb" alt="투표 이미지" width="30%">
 </p>
 
 > **투표와 댓글로 의견 공유**
