@@ -35,13 +35,13 @@
 *소중한 한 표로 글쓴이의 고민을 해결해 주세요!*
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2f06534c-9f26-4780-80b3-2ef29aa8f75e" alt="투표 결과" width="50%">
+  <img src="https://github.com/user-attachments/assets/2f06534c-9f26-4780-80b3-2ef29aa8f75e" alt="투표 결과" width="30%">
 </p>
 
 > 투표 시 즉각적으로 결과를 확인하고, 다른 피커들의 생각은 어떠한지 알 수 있습니다.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4fea890a-d2dc-4859-b234-1b10f5b6f990" alt="소통 기능" width="50%">
+  <img src="https://github.com/user-attachments/assets/4fea890a-d2dc-4859-b234-1b10f5b6f990" alt="소통 기능" width="30%">
 </p>
 
 > **비슷한 고민을 가진 사람들과의 소통**
